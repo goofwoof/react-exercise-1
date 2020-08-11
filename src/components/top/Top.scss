@@ -1,0 +1,28 @@
+.top{
+    margin: 10% 10% 0 10%;
+    padding: 0 3% 0 3%;
+    font-family: Georgial;  
+    background-color: white;
+}
+.link-bottom{
+    width: 102%;
+    height: 1px;
+    border-top: solid gainsboro 2px;
+    transform:translateX(-1%);
+
+}
+
+.hello{
+    padding: 0;
+    transform:translateY(-200%);
+    text-align: center;
+    font-size: 200%;
+
+}
+
+.say{
+    text-align: center;
+    transform:translateY(-150%);
+    font-size: 140%;
+    font-weight: 1000; 
+}
